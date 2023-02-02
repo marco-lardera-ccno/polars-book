@@ -1,0 +1,12 @@
+shape: (5, 3)
+┌───────┬─────────────────────┬─────────────────┐
+│ state ┆ youngest            ┆ oldest          │
+│ ---   ┆ ---                 ┆ ---             │
+│ cat   ┆ str                 ┆ str             │
+╞═══════╪═════════════════════╪═════════════════╡
+│ KY    ┆ Ben Chandler        ┆ John Edwards    │
+│ OL    ┆ Julien Poydras      ┆ Daniel Clark    │
+│ OH    ┆ Anthony Gonzalez    ┆ John Smith      │
+│ CO    ┆ Jared Polis         ┆ Allen Bradford  │
+│ GU    ┆ Michael San Nicolas ┆ Antonio Won Pat │
+└───────┴─────────────────────┴─────────────────┘
